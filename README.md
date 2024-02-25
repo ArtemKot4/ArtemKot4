@@ -1,5 +1,5 @@
 ### Привет!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+разработчик+нескольких+модов)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+разработчик+нескольких+модификаций)](https://git.io/typing-svg)
 Делаю различные моды на Minecraft Bedrock.
 На моей странице вы можете посмотреть исходный код многих из них
 <!--
